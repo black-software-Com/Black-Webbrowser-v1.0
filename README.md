@@ -1,11 +1,11 @@
-# [Black-Webbrowser](https://github.com/black-software-com/black-webbrowser) `v1.0 (New)`
+# [Black-Webbrowser](https://github.com/black-software-com/black-webbrowser-v1.0) `v1.0`
 
 <p style="text-align:center;" >
-<img src="./Scr/Black-Webbrowser-Logo.jpeg" width="100" height="100" title="Black-Webbrowser Logo" alt="Black-Webbrowser Logo">
+<img src="./Scr/Black-Webbrowser-Logo.jpeg" title="Black-Webbrowser Logo" alt="Black-Webbrowser Logo">
 </p>
 
 <p style="text-align:center;">
-Black Webbrowser
+Black Webbrowser v1.0
 </p>
 
 ``` txt
