@@ -1,7 +1,7 @@
 # [Black-Webbrowser](https://github.com/black-software-com/black-webbrowser-v1.0) `v1.0`
 
 <p style="text-align:center;" >
-<img src="./Scr/Black-Webbrowser-Logo.jpeg" title="Black-Webbrowser Logo" alt="Black-Webbrowser Logo">
+<img src="./Scr/Black-Webbrowser-Logo.jpeg" title="Black-Webbrowser Logo v1.0" alt="Black-Webbrowser Logo v1.0">
 </p>
 
 <p style="text-align:center;">
